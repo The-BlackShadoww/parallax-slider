@@ -6,7 +6,7 @@
 
 body {
     overscroll-behavior: none;
-    background-color: #141515;
+    background-color: #f9ebe1;
 }
 
 main {
@@ -52,5 +52,5 @@ main {
     height: 100%;
     background-size: cover;
     background-position: center;
-    /* filter: grayscale(100%); */
+    filter: grayscale(100%);
 }
